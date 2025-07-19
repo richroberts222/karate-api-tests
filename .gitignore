@@ -1,0 +1,13 @@
+# Maven build output
+target/
+
+# VSCode settings folder
+.vscode/
+
+# Karate reports
+karate-reports/
+
+# Logs and temp files
+*.log
+*.tmp
+
