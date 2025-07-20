@@ -1,3 +1,4 @@
+@apikey
 Feature: ReqRes API Test With API Key
 
 Background:

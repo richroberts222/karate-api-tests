@@ -1,3 +1,4 @@
+@apikey
 Feature: Sample API Tests
 
 Scenario: Test a sample GET API
